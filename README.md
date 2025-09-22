@@ -30,7 +30,13 @@ TODO:
 For npm on windows:
 
 ```bash
-$npm run build
+$npm run <foldername>
+```
+
+i.e.
+
+```bash
+$npm run RPS_terminal
 ```
 
 ## Takeaways (stuff i sorta forgot)
