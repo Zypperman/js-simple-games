@@ -1,16 +1,29 @@
-# Javscript Games
+# Simple Games with Javscript
 
-fluff program for the Odin project.
+Part of the Odin project.
 
-Simple games with Javascript.
+Has:
 
-Rock paper scissors in the terminal with javascript.
-
-No fancy GUI, just a terminal tool.
+- Easy:
+    - [x] rock-paper-scissors on terminal
+    - [ ] rock-paper-scissors on browser
+    - [ ] tic-tac-toe on terminal
+- Medium:
+    - [ ] Pong
+    - [ ] flappy bird
+    - [ ] Space invaders
+    - [ ] fruit ninja
+    - [ ] Angry Birds
+- Hard:
+    - [ ] Minecraft
+    - [ ] Pokemon, the first town / fighting the original dragon, remade
+    - [ ] [NES emulator](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
 
 Yup.
 
-2 variants, one running solely on the console, the other running on a html file.
+TODO:
+
+- [ ] Make a selection screen.
 
 ## Usage
 
