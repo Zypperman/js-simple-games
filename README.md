@@ -36,7 +36,7 @@ $npm run <foldername>
 i.e.
 
 ```bash
-$npm run RPS_terminal
+$npm run rps_terminal
 ```
 
 ## Takeaways (stuff i sorta forgot)
